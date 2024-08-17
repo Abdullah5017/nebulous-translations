@@ -1118,10 +1118,10 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="CIRCLE">CÍRCULO</string>
     <string name="SQUARES">CUADROS</string>
     <string name="TRICK_MODE">MODO TRICKS</string>
-    <string name="ICE_SPLIT">ICE SPLIT</string>
-    <string name="TRICK_SPLIT">TRICK SPLIT</string>
-    <string name="POP_SPLIT">POP SPLIT</string>
-    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="ICE_SPLIT">Hielo dividido</string>
+    <string name="TRICK_SPLIT">Truco dividido</string>
+    <string name="POP_SPLIT">POP dividido</string>
+    <string name="PUSH_SPLIT">empujar dividido</string>
     <string name="Level_Colors">Colores de Nivel</string>
     <string name="click_info">¡Autoclick / Ultraclick no funcionan en TCT Clásico!</string>
     <string name="Hooked">Enganchado</string>
