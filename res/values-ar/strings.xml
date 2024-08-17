@@ -1218,7 +1218,7 @@
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
-    <string name="Tournament_Starting">البُطولة بدأءت</string>
+    <string name="Tournament_Starting">البُطولة بدأت</string>
     <string name="Max_Tilt_Angle_3D_">زأوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
@@ -1273,7 +1273,7 @@
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
     <string name="CHARGE_UP">الشُحنْةُ</string>
     <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
-    <string name="Responsible_Pet_Owner">مسؤل الحيوانات الأليفة</string>
+    <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
@@ -1366,7 +1366,7 @@ Commands:
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
 - شراء البلازما في المتجر
-- يمكنك تحميل جلود المجتمع اللاعبين
+- يمكنك تحميل جلود اللاعبين في المجتمع 
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
@@ -1419,7 +1419,7 @@ Commands:
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"صغير (٢ضد٢)"</item>
+        <item>"صغير جدا (٢ضد٢)"</item>
         <item>"صغير (٣ضد٣)"</item>
         <item>"عادي (٥ضد٥)"</item>
         <item>"كبير (٨ضد٨)"</item>
