@@ -1300,12 +1300,12 @@
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">КОЛІР ФОНУ КЛАНУ</string>
     <string name="activate">активувати</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">id клану</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">раптовий напад</string>
 
     <string name="sign_in_explanation">
 "Увійдіть, щоб отримати доступ до багатокористувацької гри. Ви зможете:
@@ -1317,9 +1317,9 @@
 Якщо ви не бажаєте увійти, ви все ще можете грати в одиночну гру."
 </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
+    <string name="pm">Приватна</string>
     <string name="You_are_already_friends_">Ви вже друзі.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Обліковий запис має бути не менше одного дня тому</string>
     <string name="Translator">Перекладач</string>
 
 
